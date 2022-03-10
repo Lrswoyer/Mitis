@@ -5,8 +5,8 @@ DIR_CONFIG="/etc/v2ray"
 DIR_RUNTIME="/usr/bin"
 DIR_TMP="$(mktemp -d)"
 
-UUID=e528437c-3731-4e60-ab17-1372560dea7e
-WSPATH=/btde
+UUID=beb79d37-5310-4e49-852c-f51e79fe0610
+WSPATH=/ncive
 PORT=443
 
 # Write V2Ray configuration
