@@ -1,6 +1,6 @@
 services:
-  mitis2:
+  mitis3:
     build: .
     shm_size: 2.6gb
     ports:
-      - "80:80"
+      - "443:443"
