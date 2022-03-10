@@ -1,5 +1,5 @@
 services:
-  mitis3:
+  mitis:
     build: .
     shm_size: 2.6gb
     ports:
